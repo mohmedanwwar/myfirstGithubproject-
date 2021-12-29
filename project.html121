@@ -1,0 +1,93 @@
+
+
+<!DOCTYPE html>
+<html>
+    
+    <head>
+      <title>
+        page 
+        </title>
+    </head>
+<style>
+    body{
+background-image:url( black.jpg)
+    }
+    body{margin:0;padding:0;font-family:Arial,Tahoma}
+    .Header {
+        text-align: center;
+        padding: inherit;
+        background: black;
+        color:red;
+        font-size: 20px ;
+        
+        
+    }
+    .navigation{
+        background:black;
+        color: red;
+        text-align:center;
+        
+    }
+    ul{list-style: none;padding:0;margin:0}
+    ul li{display:inline-block;padding:10px;
+    }
+    .content{
+         text-align: center;
+        padding: 20px0;
+    }
+    .footer{
+        text-align:left;
+        font-size:20px0;
+        background: #333;
+        color: aliceblue;
+        padding: 10px0;
+        
+        
+    }
+        a:link{ background:red;
+            text-decoration: none;
+        }
+        a:visited{
+            color: red;
+            background:black;
+            text-decoration: none;
+        }
+        a:hover{
+            background:blue;
+            text-decoration: none;
+        }
+        a:active{
+            background:red;
+            text-decoration: none;
+        }
+    
+
+    
+</style>
+<body >
+    <div class="Header"> <img src="alhy...jpg" alt="alhy" width="20" height="25"> 
+        Century Club
+    <img src="alhy...jpg" alt="alhy" width="20" height="25"> 
+         </div>
+    <div class="navigation">
+     
+    <ul>
+        <li><a href="Untitled.html">footballers</a></li>
+        <li><a href="history.html">history</a></li>
+
+        <li><a href="maiin.html">Matches</a></li>
+        <li> <a href="champoins.html">Championship</a></li>
+        <il><a href="about.html"> about</a>
+               </il>
+    </ul>
+    </div>
+    <div class="content"><h1 style="color:red">Ahly club</h1>
+        <img src="1234.jpg" alt="1234" width="600" height="250">
+        <a href="http://alahlyegypt.com/">visit Ahly club website </a>
+    </div>
+
+</body>
+    
+    <div class="footer">copyright&copy;2019 All Right Reserved TO Ahly&reg;club</div>
+</body>
+</html>
